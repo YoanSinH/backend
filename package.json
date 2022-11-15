@@ -1,0 +1,23 @@
+{
+  "name": "howspital",
+  "version": "1.0.0",
+  "description": "Hospital proyecto final",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maxtro2002/FinalDesarrollo.git"
+  },
+
+  "dependencies": {
+    
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.11.0",
+    "nodemon": "^2.0.20"
+  }
+}
